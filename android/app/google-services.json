@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34795247469",
+    "firebase_url": "https://projeto-delphi-245bc-default-rtdb.firebaseio.com",
+    "project_id": "projeto-delphi-245bc",
+    "storage_bucket": "projeto-delphi-245bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34795247469:android:ef27f37bda7342a237ac64",
+        "android_client_info": {
+          "package_name": "com.example.Projeto.Delphi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34795247469-459o325bdkjoeqf43t5neo7u1lakc8b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiqgZiPdAr-onMJPeg_kvf0F36oBjxmCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34795247469-459o325bdkjoeqf43t5neo7u1lakc8b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
